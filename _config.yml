@@ -12,6 +12,7 @@ url: "https://asgardener.github.io/"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
+baseurl: /_config.yml
 
 # Google tracking id
 

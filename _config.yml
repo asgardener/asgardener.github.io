@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Asgardener"
 title: "art serving capitalism"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+description: "Cosplayer. Dreamer. World-eater."
 keywords: "asgardener, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
@@ -55,10 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Let's face it, if it weren't for physics and law enforcement, I'd be unstoppable."
+  - text: "Does this unit have a soul?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/destiny.png"
 
 ##############################
 # Color the browser elements #
@@ -102,7 +102,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: ""
 
 syntax-highlight: True
 
@@ -136,8 +136,18 @@ email: "caroline@asgardener.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb: "Caroline is masquerading as an advertising MA student at the Univeristy of Texas at Austin, and is trying desperately not to take life too seriously. 
+She has been known to practice parkour on the rooftops in her time away from
+the internet (work), but due to increasingly thorough 
+investigation into the activity of vigilantes 
+in her town, she’s currently laying low.
+
+She likes milk tea, battles of wits, overwhelming her processor, and making the world a better place.
+
+If you want to find her, chances are she’ll be hiding behind her laptop screen somewhere, creating something strange and bizarre that she’d love for you to <a href="mailto:caroline@asgardener.com">inquire</a> about.
+"
+
+author_blurb_image: "/img/silverhair.png"
 
 ##################
 # Social Buttons #
